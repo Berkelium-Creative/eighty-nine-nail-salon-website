@@ -1,47 +1,134 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Eighty Nine Nail Salon",
+  "tagline": "Studio 89 nail salon on N Glendale Avenue.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · N GLENDALE AVE · CLOSED MONDAYS",
+    "heading": "An edited approach to the chair.",
+    "subheading": "A small editorial-style nail studio on North Glendale Avenue. Six chairs, two technicians, hand-detailed work, and a service menu kept narrow on purpose. Closed Mondays, open the rest.",
+    "ctaText": "Reserve",
+    "ctaLink": "tel:8189569006",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The studio",
+    "heading": "Small floor. Sharp work.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Eighty Nine — Studio 89 to the neighborhood — opened on North Glendale Avenue in 2019. Six chairs, two technicians, and a menu intentionally kept short so every service gets the same attention.",
+      "We do classic manicures and pedicures, gel polish, dip powder, and detailed nail art. Sanitized tools, single-use buffers, paraffin treatments for the regulars.",
+      "Closed Mondays. Open Tuesday through Saturday ten to eight, Sundays ten to six. Walk-ins welcome but appointments preferred."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Classic Manicure",
+      "description": "Trim, shape, cuticle work, polish, top coat. The thirty-minute essential, finished with intention.",
+      "price": "$24"
+    },
+    {
+      "title": "Spa Pedicure",
+      "description": "Hot-towel soak, scrub, callus, paraffin, polish. Fifty minutes of pure restoration.",
+      "price": "$42"
+    },
+    {
+      "title": "Gel Manicure",
+      "description": "UV-cured polish that lasts two weeks. Available on classic mani or full sets.",
+      "price": "$38"
+    },
+    {
+      "title": "Full Set · Acrylic",
+      "description": "Sculpted acrylic, your length, your shape. Polish or gel included. Sixty minutes.",
+      "price": "$50"
+    },
+    {
+      "title": "Dip Powder",
+      "description": "Lighter and stronger than acrylic. Two-week wear. Available natural or with polish.",
+      "price": "$50"
+    },
+    {
+      "title": "Nail Art · Per Nail",
+      "description": "Hand-painted detail, gems, foils, French. Add to any service.",
+      "price": "from $4"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Tania M.",
+      "rating": 4,
+      "context": "Two-year regular",
+      "text": "Studio 89 is the only nail salon in Glendale I trust with both my regular full sets and special-event work. The detail on the gel art is exactly what I'd expect from a studio in DTLA at half the price."
+    },
+    {
+      "name": "Rebecca H.",
+      "rating": 5,
+      "context": "First-time customer",
+      "text": "Walked in for a classic manicure on a Tuesday and was out the door in thirty-five minutes with the cleanest finish I've ever had. The chairs are quiet, the floor is small, the focus is real."
+    },
+    {
+      "name": "Anna K.",
+      "rating": 4,
+      "context": "Bridal party",
+      "text": "Booked Studio 89 for my entire bridal party of seven. They handled all of us inside two hours with perfect color matching and gel art on every set."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 956-9006",
+    "email": "hello@studio89nails.com",
+    "address": "1010 N Glendale Ave #108, Glendale, CA 91206",
+    "mapEmbedQuery": "Eighty Nine Nail Salon, 1010 N Glendale Ave, Glendale, CA 91206",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "Closed",
+      "Tuesday": "10:00 AM – 8:00 PM",
+      "Wednesday": "10:00 AM – 8:00 PM",
+      "Thursday": "10:00 AM – 8:00 PM",
+      "Friday": "10:00 AM – 8:00 PM",
+      "Saturday": "10:00 AM – 8:00 PM",
+      "Sunday": "10:00 AM – 6:00 PM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Eighty Nine Nail Salon — Studio 89 on N Glendale Avenue",
+    "description": "An editorial-style nail studio on North Glendale Avenue, Glendale. Manicures, pedicures, gel, dip, hand-detailed nail art. Closed Mondays.",
+    "keywords": [
+      "Glendale nail salon",
+      "N Glendale Ave nails",
+      "Studio 89 Glendale",
+      "editorial nail salon LA"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#0A0A0A",
+    "accentColor": "#DC2626",
+    "fontFamily": "bodonimoda-inter-anonymouspro"
+  },
+  "designSystem": {
+    "searchQuery": "italian editorial nail studio bodoni moda signal red ivory minimal magazine layout",
+    "styleName": "Italian Editorial Studio (Bodoni Moda + signal red)",
+    "pattern": "Hero asymmetric + Menu horizontal-rule + CTA",
+    "palette": {
+      "primary": "#0A0A0A",
+      "secondary": "#737373",
+      "cta": "#0A0A0A",
+      "accent": "#DC2626",
+      "background": "#FBF8F1",
+      "text": "#0A0A0A",
+      "muted": "#737373",
+      "border": "#0A0A0A",
+      "surface": "#FFFFFF"
+    },
+    "typography": {
+      "heading": "Bodoni Moda",
+      "body": "Inter",
+      "label": "Anonymous Pro",
+      "mood": "Italian fashion-magazine editorial, Bodoni Moda alternating roman/italic, signal red CTA, ivory and ink, minimal"
+    },
+    "moves": [
+      "Bodoni Moda heavy-contrast display alternating roman/italic — first Bodoni Moda in the build",
+      "Giant '89.' display number hero — editorial cover-page feel",
+      "Signal red horizontal hairline rules — magazine spreads",
+      "Horizontal-rule divided service menu — fashion magazine table-of-contents",
+      "Reviews on full ink background — magazine review-tear-out",
+      "Ivory + signal red + ink only — strict three-tone palette"
+    ]
   }
 }
